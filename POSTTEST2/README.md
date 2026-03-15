@@ -1,6 +1,5 @@
 ## LAPORAN POSTTEST 2 PEMOGRAMAN BERBASIS OBJEK (PBO)
-#### Nam
-a: Richo Anan Rizky Putra <br> NIM: 2409106062 <br> Kelas: B1 24
+#### Nama: Richo Anan Rizky Putra <br> NIM: 2409106062 <br> Kelas: B1 24
 
 ### Deskripsi posttest
 Posttest kedua ini saya menambahkan enkapsulasi ke dalam program berupa Getter, Setter, dan Access Modifier (yang saya pakai
