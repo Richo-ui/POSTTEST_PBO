@@ -7,12 +7,12 @@ Posttest kedua ini saya menambahkan enkapsulasi ke dalam program berupa Getter, 
 hanya Public dan Private)
 
 ###  Getter
-Getter digunakan untuk mengambil nilai data dari atribut di dalam class Jamaah
-![Atribut class.png](Assets/Atribut%20class.png)
+Getter digunakan untuk mengambil nilai data dari atribut di dalam class Jamaah <br>
+![Atribut class.png](Assets/Atribut%20class.png) <br>
 tapi karena Private, class lain tidak bisa langsung mengaksesnya
 
-Oleh karena itu dibuat Getter
-![Getter class jamaah.png](Assets/Getter%20class%20jamaah.png)
+Oleh karena itu dibuat Getter <br>
+![Getter class jamaah.png](Assets/Getter%20class%20jamaah.png) <br>
 agar class lain dapat mengakses nilai data dari atribut yang ada di dalam class Jamaah
 
 ### Penggunaan Getter di Main
@@ -25,7 +25,7 @@ Berbeda dengan Getter, Setter digunakan untuk mengubah nilai data dari atribut d
 ![Setter class Jamaah.png](Assets/Setter%20class%20Jamaah.png)
 
 ### Penggunaan Setter di Main
-Penerapan Setter di class Main digunakan pada fungsi update()
+Penerapan Setter di class Main digunakan pada fungsi update() <br>
 ![Setter di Main.png](Assets/Setter%20di%20Main.png)
 
 ### Access Modifier
