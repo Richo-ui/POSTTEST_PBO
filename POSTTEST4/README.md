@@ -38,8 +38,8 @@ Overloading pada program ini diterapkan pada class parent **Jamaah**, pada metho
 Method tersebut memiliki 2 bentuk:
 1. tampilkanData() -> menampilkan data lengkap
 2. tampilkanData(boolean lengkap) -> menampilkan data berdasarkan parameter, jika bernilai _true_ menampilkan data lengkap,
-jika bernilai _false_ menampilkan data dengan singkat
-![img_4.png](img_4.png)
+jika bernilai _false_ menampilkan data dengan singkat <br>
+![img_4.png](img_4.png) <br>
 Tujuan penggunaan Overloading ialah untuk memberikan variasi pemanggilan method
 
 ## Sekian dan Terima Kasih
