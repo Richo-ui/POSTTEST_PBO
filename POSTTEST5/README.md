@@ -21,7 +21,7 @@ class
 
 - #### Abstract Method
     ![img_1.png](Assets/img_1.png) <br>
-Implementasinya di child class seperti ini:
+Implementasinya di child class seperti ini: <br>
 ![img_3.png](Assets/img_3.png)
 - #### Interface
     ![img_2.png](Assets/img_2.png) <br>
@@ -29,7 +29,7 @@ Implementasinya di child class seperti ini:
 Interface adalah sebuah cara untuk menerapkan abstraction dengan membuat method tanpa menyertakan body methodnya
 
 Untuk menggunakan interfacenya perlu menggunakan kata kunci "implement" di class, dan sama seperti abstract class, semua
-method yang digunakan pada class harus di definisikan
+method yang digunakan pada class harus di definisikan <br>
 ![img_4.png](Assets/img_4.png)
 ![img_6.png](Assets/img_6.png)
 
